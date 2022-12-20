@@ -1,1 +1,1 @@
-examples
+## Different kind of Csharp projects
