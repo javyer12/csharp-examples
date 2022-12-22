@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myApp
-build_property.ProjectDir = /workspaces/csharp-examples/myApp-e/
+build_property.ProjectDir = /Users/frankier/Documents/proyectos/csharp/examples/c-exercise/myApp-e/

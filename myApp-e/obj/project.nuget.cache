@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QpNEsY2k11hFoMcZ/4l9ajMi+NWBw9zS2tPSYqvzjWg5Xzdv87KGMO7AiKiTQe8NkKCXEcgr8WrfHbQJe4GtYA==",
+  "dgSpecHash": "AEkpM4zhoYnqYsZgDdbAawjt4hSZj7+sjH0eUaTIg0u73KcnLw1f5MtnfwyjOb/a4tMAVvIlQpC6CK+GnZWp0g==",
   "success": true,
-  "projectFilePath": "/workspaces/csharp-examples/myApp-e/myApp.csproj",
+  "projectFilePath": "/Users/frankier/Documents/proyectos/csharp/examples/c-exercise/myApp-e/myApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

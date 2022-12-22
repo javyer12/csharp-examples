@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/Users/frankier/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/csharp-examples/myApp-e/myApp.csproj",
+      "projectUniqueName": "/Users/frankier/Documents/proyectos/csharp/examples/c-exercise/myApp-e/myApp.csproj",
       "projectName": "myApp",
-      "projectPath": "/workspaces/csharp-examples/myApp-e/myApp.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/csharp-examples/myApp-e/obj/",
+      "projectPath": "/Users/frankier/Documents/proyectos/csharp/examples/c-exercise/myApp-e/myApp.csproj",
+      "packagesPath": "/Users/frankier/.nuget/packages/",
+      "outputPath": "/Users/frankier/Documents/proyectos/csharp/examples/c-exercise/myApp-e/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/Users/frankier/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.100/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
