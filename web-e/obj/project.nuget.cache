@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KgwQB4VnLPc1lERpVaxdVXmP6tKi0pIwcBx7I6Sbx75FL4aJkzHvzRW68K8OKnWnDNlQzPNwQ8fTfMeIQ+CYiQ==",
+  "dgSpecHash": "2Kh6wzhYm5dfDESZeG4y88VqbEWVrqgJor4WCRaj50vkd/RsGqO+CkkhAGN6W3q/dCZXtN98UVDwp1SVRO0W5w==",
   "success": true,
-  "projectFilePath": "/workspaces/csharp-examples/web-e/web-e.csproj",
+  "projectFilePath": "/Users/frankier/Documents/proyectos/csharp/examples/c-exercise/web-e/web-e.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
