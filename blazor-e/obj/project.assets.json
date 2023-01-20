@@ -1518,19 +1518,19 @@
     ]
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "/Users/frankier/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/csharp-examples/blazor-e/blazor.csproj",
+      "projectUniqueName": "/Users/frankier/Documents/proyectos/csharp/examples/c-exercise/blazor-e/blazor.csproj",
       "projectName": "blazor",
-      "projectPath": "/workspaces/csharp-examples/blazor-e/blazor.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/csharp-examples/blazor-e/obj/",
+      "projectPath": "/Users/frankier/Documents/proyectos/csharp/examples/c-exercise/blazor-e/blazor.csproj",
+      "packagesPath": "/Users/frankier/.nuget/packages/",
+      "outputPath": "/Users/frankier/Documents/proyectos/csharp/examples/c-exercise/blazor-e/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "/Users/frankier/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -1578,7 +1578,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[7.0.0, 7.0.0]"
+            "version": "[7.0.1, 7.0.1]"
           }
         ],
         "frameworkReferences": {
@@ -1586,7 +1586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.100/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
